@@ -1,0 +1,18 @@
+{
+    "name": "instagram-like-bot",
+    "version": "1.0.0",
+    "description": "A instagram like bot",
+    "main": "src/index.js",
+    "repository": "https://github.com/Matix-Media/instagram-like-bot.git",
+    "author": "Matix-Media <support@matix-media.net>",
+    "license": "MIT",
+    "scripts": {
+        "start": "nodemon"
+    },
+    "dependencies": {
+        "instagram-web-api": "^2.2.2"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.14"
+    }
+}
